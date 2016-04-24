@@ -7,3 +7,43 @@ header {
 .logo {
 	height:100px;
 }
+
+.theme {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+#glasses{
+	position: absolute;
+	left: 230px;
+	top: 300px;
+	z-index: 500;
+}
+
+#line{
+	position: absolute;
+	top: 552px;
+	left: 100px;
+}
+
+#owl{
+	position: absolute;
+	left: 330px;
+	top: 150px;
+	z-index: 100;
+}
+
+#ville{
+	position: absolute;
+	top: 400px;
+	left: 380px;
+	z-index: 50;
+}
+
+#ville2{
+	position: absolute;
+	top: 400px;
+	left: 200px;
+	z-index: 100;
+}
