@@ -9,10 +9,10 @@
 	<header><img class="logo" src="ressources/logo_hack.png"></header>
 	<div class="theme">
 		
-	<img src="ressources/Puzzle/glasses.png" class="glasses">
-	<img src="ressources/Puzzle/line.png" class="line">
-	<img src="ressources/Puzzle/owl.png" class="owl">
-	<img src="ressources/Puzzle/ville.png" class="ville">
-	<img src="ressources/Puzzle/ville_2.png" class="ville2">
+	<img src="ressources/Puzzle/glasses.png">
+	<img src="ressources/Puzzle/line.png">
+	<img src="ressources/Puzzle/owl.png">
+	<img src="ressources/Puzzle/ville.png">
+	<img src="ressources/Puzzle/ville_2.png">
 </body>
 </html>

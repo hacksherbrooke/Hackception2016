@@ -8,7 +8,7 @@ header {
 	height:100px;
 }
 .glasses{
-    left: 145px;
+left: 145px;
     top: 150px;
     z-index: 500;
 }
@@ -16,20 +16,20 @@ header {
 	top: 403px;
 }
 .owl {
-    top: 0;
+	    top: 0;
     left: 240px;
-    z-index: 300;
+z-index: 300;
 }
 .ville {
     top: 250px;
     left: 315px;
-    z-index: 100;
+z-index: 100;
 }
 .ville2 {
-    top: 250px;
+	    top: 250px;
     left: 135px;
-    z-index: 310;
+z-index: 310;
 }
 .glasses, .line , .owl , .ville , .ville2 {
-    position: absolute;
+	position: absolute;
 }
