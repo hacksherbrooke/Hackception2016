@@ -11,6 +11,17 @@ header {
 	width: 500px;
 	margin: 0 auto;
 }
+
+#theme {
+    width: 80%;
+    margin: 0 auto;
+}
+
+img {
+    display: inline-block;
+    vertical-align: top;
+}
+
 #poop {
 	width: 100%;
 }
@@ -19,3 +30,9 @@ header {
     top: 424px;
     margin-left: 152px;
 }
+
+#ville {
+
+}
+
+#ville2
