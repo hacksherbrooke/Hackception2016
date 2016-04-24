@@ -1,0 +1,21 @@
+body {
+	background-color: #b2a68e;
+}
+header {
+	text-align: center;
+}
+.logo {
+	height: 100px;
+}
+.poop-container {
+	width: 500px;
+	margin: 0 auto;
+}
+#poop {
+	width: 100%;
+}
+#sad {
+    position: absolute;
+    top: 424px;
+    margin-left: 152px;
+}
